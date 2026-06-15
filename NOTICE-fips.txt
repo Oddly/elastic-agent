@@ -374,11 +374,11 @@ Contents of probable licence file $GOMODCACHE/github.com/docker/go-units@v0.5.0/
 
 --------------------------------------------------------------------------------
 Dependency : github.com/dolmen-go/contextio
-Version: v0.0.0-20200217195037-68fc5150bcd5
+Version: v1.0.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/dolmen-go/contextio@v0.0.0-20200217195037-68fc5150bcd5/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/dolmen-go/contextio@v1.0.0/LICENSE:
 
 
                                  Apache License
@@ -2035,11 +2035,11 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 --------------------------------------------------------------------------------
 Dependency : github.com/fatih/color
-Version: v1.18.0
+Version: v1.19.0
 Licence type (autodetected): MIT
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/fatih/color@v1.18.0/LICENSE.md:
+Contents of probable licence file $GOMODCACHE/github.com/fatih/color@v1.19.0/LICENSE.md:
 
 The MIT License (MIT)
 
@@ -2459,11 +2459,11 @@ Contents of probable licence file $GOMODCACHE/github.com/jaypipes/ghw@v0.24.0/CO
 
 --------------------------------------------------------------------------------
 Dependency : github.com/jedib0t/go-pretty/v6
-Version: v6.4.6
+Version: v6.8.1
 Licence type (autodetected): MIT
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/jedib0t/go-pretty/v6@v6.4.6/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/jedib0t/go-pretty/v6@v6.8.1/LICENSE:
 
 MIT License
 
@@ -2490,11 +2490,11 @@ SOFTWARE.
 
 --------------------------------------------------------------------------------
 Dependency : github.com/kardianos/service
-Version: v1.2.1-0.20210728001519-a323c3813bc7
+Version: v1.2.4
 Licence type (autodetected): Zlib
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/kardianos/service@v1.2.1-0.20210728001519-a323c3813bc7/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/kardianos/service@v1.2.4/LICENSE:
 
 Copyright (c) 2015 Daniel Theophanes
 
@@ -3216,11 +3216,11 @@ THE SOFTWARE.
 
 --------------------------------------------------------------------------------
 Dependency : github.com/schollz/progressbar/v3
-Version: v3.13.1
+Version: v3.19.0
 Licence type (autodetected): MIT
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/schollz/progressbar/v3@v3.13.1/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/schollz/progressbar/v3@v3.19.0/LICENSE:
 
 MIT License
 
@@ -3500,11 +3500,11 @@ SOFTWARE.
 
 --------------------------------------------------------------------------------
 Dependency : github.com/winlabs/gowin32
-Version: v0.0.0-20240930213947-f504d7e14639
+Version: v0.0.0-20260308155911-6a6dc53430f0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/winlabs/gowin32@v0.0.0-20240930213947-f504d7e14639/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/winlabs/gowin32@v0.0.0-20260308155911-6a6dc53430f0/LICENSE:
 
 ﻿
                                  Apache License
@@ -8186,11 +8186,11 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
 Dependency : gopkg.in/ini.v1
-Version: v1.67.0
+Version: v1.67.3
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/gopkg.in/ini.v1@v1.67.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/gopkg.in/ini.v1@v1.67.3/LICENSE:
 
 Apache License
 Version 2.0, January 2004
@@ -9362,11 +9362,11 @@ Contents of probable licence file $GOMODCACHE/k8s.io/client-go@v0.36.2/LICENSE:
 
 --------------------------------------------------------------------------------
 Dependency : kernel.org/pub/linux/libs/security/libcap/cap
-Version: v1.2.77
+Version: v1.2.78
 Licence type (autodetected): BSD-3-Clause
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/kernel.org/pub/linux/libs/security/libcap/cap@v1.2.77/License:
+Contents of probable licence file $GOMODCACHE/kernel.org/pub/linux/libs/security/libcap/cap@v1.2.78/License:
 
 /* SPDX-License-Identifier: BSD-3-Clause OR GPL-2.0-only */
 
@@ -42688,6 +42688,37 @@ official policies, either expressed or implied, of Richard Crowley.
 
 
 --------------------------------------------------------------------------------
+Dependency : github.com/rivo/uniseg
+Version: v0.4.7
+Licence type (autodetected): MIT
+--------------------------------------------------------------------------------
+
+Contents of probable licence file $GOMODCACHE/github.com/rivo/uniseg@v0.4.7/LICENSE.txt:
+
+MIT License
+
+Copyright (c) 2019 Oliver Kuederle
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+--------------------------------------------------------------------------------
 Dependency : github.com/shirou/gopsutil/v4
 Version: v4.26.4
 Licence type (autodetected): BSD-3-Clause
@@ -55908,11 +55939,11 @@ Contents of probable licence file $GOMODCACHE/k8s.io/utils@v0.0.0-20260210185600
 
 --------------------------------------------------------------------------------
 Dependency : kernel.org/pub/linux/libs/security/libcap/psx
-Version: v1.2.77
+Version: v1.2.78
 Licence type (autodetected): BSD-3-Clause
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/kernel.org/pub/linux/libs/security/libcap/psx@v1.2.77/License:
+Contents of probable licence file $GOMODCACHE/kernel.org/pub/linux/libs/security/libcap/psx@v1.2.78/License:
 
 /* SPDX-License-Identifier: BSD-3-Clause OR GPL-2.0-only */
 
