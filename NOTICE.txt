@@ -31046,11 +31046,11 @@ THE SOFTWARE.
 
 --------------------------------------------------------------------------------
 Dependency : google.golang.org/api
-Version: v0.275.0
+Version: v0.284.0
 Licence type (autodetected): BSD-3-Clause
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/google.golang.org/api@v0.275.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/google.golang.org/api@v0.284.0/LICENSE:
 
 Copyright (c) 2011 Google Inc. All rights reserved.
 
@@ -55941,11 +55941,11 @@ Contents of probable licence file $GOMODCACHE/google.golang.org/genproto/googlea
 
 --------------------------------------------------------------------------------
 Dependency : google.golang.org/genproto/googleapis/rpc
-Version: v0.0.0-20260406210006-6f92a3bedf2d
+Version: v0.0.0-20260526163538-3dc84a4a5aaa
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/google.golang.org/genproto/googleapis/rpc@v0.0.0-20260406210006-6f92a3bedf2d/LICENSE:
+Contents of probable licence file $GOMODCACHE/google.golang.org/genproto/googleapis/rpc@v0.0.0-20260526163538-3dc84a4a5aaa/LICENSE:
 
 
                                  Apache License
@@ -88442,11 +88442,11 @@ Contents of probable licence file $GOMODCACHE/github.com/google/s2a-go@v0.1.9/LI
 
 --------------------------------------------------------------------------------
 Dependency : github.com/googleapis/enterprise-certificate-proxy
-Version: v0.3.14
+Version: v0.3.16
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/googleapis/enterprise-certificate-proxy@v0.3.14/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/googleapis/enterprise-certificate-proxy@v0.3.16/LICENSE:
 
 
                                  Apache License
@@ -88654,11 +88654,11 @@ Contents of probable licence file $GOMODCACHE/github.com/googleapis/enterprise-c
 
 --------------------------------------------------------------------------------
 Dependency : github.com/googleapis/gax-go/v2
-Version: v2.21.0
+Version: v2.22.0
 Licence type (autodetected): BSD-3-Clause
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/googleapis/gax-go/v2@v2.21.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/googleapis/gax-go/v2@v2.22.0/LICENSE:
 
 Copyright 2016, Google Inc.
 All rights reserved.
